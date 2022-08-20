@@ -1,2 +1,2 @@
 # alx-pre_course
-new
+Grit and Hard working :coffee:
